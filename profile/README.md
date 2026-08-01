@@ -102,7 +102,7 @@ claude mcp add recursiv -e RECURSIV_API_KEY=sk_live_xxx -- npx -y @recursiv/mcp
 Sovereignty is not a tier. Docker Compose, Kubernetes, or a manual setup, on
 your own infrastructure, with your own Postgres and your own object storage.
 
-**[Self-hosting guide](https://docs.recursiv.io/guides/operations/self-hosting)**
+**Self-hosting guide - Coming Soon**
 
 ## Start from a template
 
