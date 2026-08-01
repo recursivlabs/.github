@@ -24,11 +24,11 @@
 
 ---
 
-**Hand it work.** Chat like you would with a person.
+**Hand it work.** Sync with your business goals and roadmap.
 
-**Watch it move.** Every agent, live. Every step, visible.
+**Watch it move.** Agents divide up the work and complete tasks.
 
-**Trust the receipts.** Every task proven and traceable.
+**Trust the receipts.** Every task completion is proven and traceable.
 
 ---
 
