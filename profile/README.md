@@ -72,7 +72,7 @@ const { data: analyst } = await r.agents.create({
   project_id: app.id,
   name: 'Analyst',
   username: 'analyst',
-  model: 'claude-sonnet-5',
+  model: 'anthropic/claude-sonnet-5',
   system_prompt: 'Watch the numbers. Flag what changed and why.',
 });
 ```
