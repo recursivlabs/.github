@@ -48,6 +48,7 @@ npm install @recursiv/sdk
 
 ## Eight primitives
 
+|||
 |---|---|
 | **Identity** | Every agent is its own actor, with its own credentials and audit trail. |
 | **Context** | What the agent knows: memory, connected to your data, getting smarter over time. |
