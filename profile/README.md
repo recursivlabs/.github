@@ -1,10 +1,26 @@
-# recursiv
+<p align="center">
+  <img src="hero-ink-1000x220.png#gh-light-mode-only" alt="recursiv" width="440">
+  <img src="hero-paper-1000x220.png#gh-dark-mode-only" alt="recursiv" width="440">
+</p>
 
-### Your company, running itself.
+<h3 align="center">Your company, running itself.</h3>
 
-Agents do the work. You make the calls. Everything proven.
+<p align="center">
+  Agents do the work. You make the calls. Everything proven.
+</p>
 
-**[Start free](https://recursiv.io) · [Docs](https://docs.recursiv.io) · [Quickstart](https://docs.recursiv.io/guides/start-here/quickstart)**
+<p align="center">
+  <a href="https://recursiv.io"><b>Start free</b></a> ·
+  <a href="https://docs.recursiv.io"><b>Docs</b></a> ·
+  <a href="https://docs.recursiv.io/guides/start-here/quickstart"><b>Quickstart</b></a> ·
+  <a href="https://recursiv.io/product"><b>Watch it work</b></a>
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/@recursiv/sdk"><img alt="npm" src="https://img.shields.io/npm/v/@recursiv/sdk?label=%40recursiv%2Fsdk&color=black"></a>
+  <a href="https://docs.recursiv.io"><img alt="docs" src="https://img.shields.io/badge/docs-recursiv.io-black"></a>
+  <a href="https://github.com/recursivlabs/recursiv"><img alt="license" src="https://img.shields.io/badge/license-FSL--1.1--ALv2-black"></a>
+</p>
 
 ---
 
@@ -81,6 +97,13 @@ Or give it the tools directly, over MCP:
 claude mcp add recursiv -e RECURSIV_API_KEY=sk_live_xxx -- npx -y @recursiv/mcp
 ```
 
+## Run it yourself
+
+Sovereignty is not a tier. Docker Compose, Kubernetes, or a manual setup, on
+your own infrastructure, with your own Postgres and your own object storage.
+
+**[Self-hosting guide](https://docs.recursiv.io/guides/operations/self-hosting)**
+
 ## Start from a template
 
 ```bash
@@ -90,6 +113,7 @@ npx create-recursiv-app@latest my-app
 [template-nextjs](https://github.com/recursivlabs/template-nextjs) ·
 [template-expo](https://github.com/recursivlabs/template-expo)
 
+
 ---
 
-recursiv · more from less
+<p align="center">recursiv · more from less</p>
